@@ -1,4 +1,4 @@
 # themapotakes.github.io
 Welcome to TheMapotakes!
 
-[link to Google!](http://google.com)
+# [Examples](http://themapotakes.github.io/examples)
